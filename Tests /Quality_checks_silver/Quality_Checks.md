@@ -3,6 +3,7 @@
 **Script Purpose**:
 	These scripts perform various quality checks for data consistency, accuracy,
 	and standardization across the 'Silver' schema. It includes checks for:
+	
 	- Null or duplicate primary keys.
 	- Unwanted spaces in string fields.
 	- Data Standardization and consistency.
